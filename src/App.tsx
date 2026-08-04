@@ -194,7 +194,7 @@ export default function App() {
   // 1st picture -> Reveal Image
   // 2nd picture -> Background Image
   const backgroundImage = "https://demo0.whdcdrehsan.com/wp-content/uploads/2026/08/2-1.png";
-  const revealImage = "https://demo0.whdcdrehsan.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-4-2026-01_34_09-PM.png";
+  const revealImage = "https://demo0.whdcdrehsan.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-4-2026-01_01_13-PM.png";
 
   return (
     <div 
