@@ -5,7 +5,7 @@ const GlitchRevealText = ({ text }: { text: string }) => {
   const [displayText, setDisplayText] = useState("");
   
   useEffect(() => {
-    const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%^&*()_+0123456789";
+    const chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ!@#$%BHSD^&*()_+0123456789";
     let iteration = 0;
 
     const interval = setInterval(() => {
@@ -237,7 +237,7 @@ export default function App() {
       {/* Content overlay for extra polish */}
       <div className="relative z-20 pointer-events-none text-center mix-blend-difference">
         <GlitchRevealText text="Unrld Studio" />
-         <GlitchRevealText text="Eto jogra na kore show some love. " />
+         
         <p className="mt-4 text-lg md:text-xl text-white/80 max-w-lg mx-auto font-medium">
         
         </p>
