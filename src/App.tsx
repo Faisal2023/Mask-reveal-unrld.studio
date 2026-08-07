@@ -193,8 +193,8 @@ export default function App() {
   // Replace these placeholders with the images you uploaded.
   // 1st picture -> Reveal Image
   // 2nd picture -> Background Image
-  const backgroundImage = "https://demo0.whdcdrehsan.com/wp-content/uploads/2026/08/2-1.png";
-  const revealImage = "https://demo0.whdcdrehsan.com/wp-content/uploads/2026/08/ChatGPT-Image-Aug-4-2026-01_01_13-PM.png";
+  const backgroundImage = "https://tor.cloud.appwrite.io/v1/storage/buckets/6a764a9e001950932add/files/6a764ce7001ec5e17628/preview?project=6a759bd5002ae569ab96&impersonateuserid=&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbklkIjoiNmE3NjRmNjliZmMxOGQ5OTgyNGUiLCJyZXNvdXJjZUlkIjoiNmE3NjRhOWUwMDE5NTA5MzJhZGQ6NmE3NjRjZTcwMDFlYzVlMTc2MjgiLCJyZXNvdXJjZVR5cGUiOiJmaWxlcyIsInJlc291cmNlSW50ZXJuYWxJZCI6Ijc3NDoyIiwiaWF0IjoxNzg2MTM4NDczfQ.uQRnW4_NxjY-8JznZms7CPs7zvzeZITCeNzFA8RZKjo";
+  const revealImage = "https://tor.cloud.appwrite.io/v1/storage/buckets/6a764a9e001950932add/files/6a764d29001942d29d19/preview?project=6a759bd5002ae569ab96&impersonateuserid=&token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbklkIjoiNmE3NjRkZGMxY2Q4MWE3NWVjOWMiLCJyZXNvdXJjZUlkIjoiNmE3NjRhOWUwMDE5NTA5MzJhZGQ6NmE3NjRkMjkwMDE5NDJkMjlkMTkiLCJyZXNvdXJjZVR5cGUiOiJmaWxlcyIsInJlc291cmNlSW50ZXJuYWxJZCI6Ijc3NDozIiwiaWF0IjoxNzg2MTM4MDc2fQ.PKHtSjjqvThtG649nObcQs1GPpd39YN2cZPhyjVSWAk";
 
   return (
     <div 
